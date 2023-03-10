@@ -29,7 +29,7 @@
 
 ## 接入步骤
 
-欢迎阅读 `dPay API` 技术接入文档。在开始接入之前，你需要：
+欢迎阅读 [`dPay API`](https://docs.dpaycoin.com/#/) 技术接入文档。在开始接入之前，你需要：
 
 ### 前期准备
 
@@ -102,8 +102,6 @@
    <font color='red'>注：appId 在配置文件配置后，可以不用在请求参数里面在设置appId。</font>
 
 
-
-4. 其他接口使用可以参考  [Demo](https://github.com/usoppz/dPayDemo-java)  或者每个接口的文档说明。
 
 **说明**
 
