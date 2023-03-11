@@ -70,7 +70,12 @@
      <version>1.0</version>
    </dependency>
    ```
+   gradle配置：
 
+   ```apl
+   implementation 'com.dpaycoin:dPay-SDK:1.0'
+   ```
+   
 3. 编写代码，下面代码以创建订单为例：
 
    ```java
